@@ -1,0 +1,117 @@
+#name 
+{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 35px;
+}
+
+p 
+{
+    font-family: 'Zilla Slab', serif;
+    font-size: 25px;
+}
+#heading 
+{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 30px;
+}
+#welcome
+{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 500px;
+    width: 100%;
+    background: linear-gradient( #eec0c6 0%, #7ee8fa 100%);
+}
+
+#my_image
+{
+    width: 250px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 15px grey;
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 300;
+}
+#app{
+     width: 100%;
+    height:800px;
+    background-color: lightpink;
+    font-family: 'Zilla Slab', serif;
+}
+
+
+#game{
+     width: 100%;
+    height:700px;
+    background-color: lightblue;
+    font-family: 'Zilla Slab', serif;
+}
+#chatbot{
+     width: 100%;
+    height:800px;
+    background-color: lightcoral;
+    font-family: 'Zilla Slab', serif;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#myCarousel{
+    background-color: aquamarine;
+    
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+#myCarousel2{
+    background-color: aqua;
+    
+}
+#mycarousel2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#ytvid
+
+{
+    border: 8px solid black;
+    padding: 5px;
+}
+
+#ytvid2
+
+{
+    border: 8px solid black;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+#ytvid3
+
+{
+    border: 8px solid black;
+    padding: 5px;
+    margin-top: 20px;
+}
